@@ -1,0 +1,10 @@
+*.pdf
+prompt.txt
+.claude/
+__pycache__/
+*.pyc
+.env
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
